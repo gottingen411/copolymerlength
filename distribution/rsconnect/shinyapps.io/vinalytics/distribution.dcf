@@ -1,0 +1,10 @@
+name: distribution
+title:
+username:
+account: vinalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2730389
+bundleId: 3576654
+url: https://vinalytics.shinyapps.io/distribution/
+when: 1598896889.79833
